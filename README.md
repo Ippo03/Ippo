@@ -1,7 +1,7 @@
 <div align="center">
-## Ippokratis Pantelidis - 20 y/o - Greece
+<h1> Ippokratis Pantelidis - 20 y/o - Greece </h1>
 
-# Undergrad - Computer Science @ AUEB
+## Undergrad - Computer Science @ AUEB
 
 
 
