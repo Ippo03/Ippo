@@ -2,14 +2,11 @@
 
 Undergrad Computer Science @ AUEB
 
-## Skills
+<div align="center">
 
-- Skill 1
-- Skill 2
-- Skill 3
+# Languages and Tools
 
-## Connect with Me
 
-- [Website](https://example.com)
-- [Twitter](https://twitter.com/example)
-- [LinkedIn](https://linkedin.com/in/example)
+# Connect with me
+
+</div>
