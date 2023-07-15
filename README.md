@@ -1,7 +1,7 @@
 <div align="center">
-# Hello, I'm Ippokratis Pantelidis!
+## Ippokratis Pantelidis - 20 y/o - Greece
 
-Undergrad Computer Science @ AUEB
+# Undergrad - Computer Science @ AUEB
 
 
 
@@ -13,5 +13,5 @@ Undergrad Computer Science @ AUEB
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" height="38">](https://www.java.com/)
 
 # Connect with me
-[<img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="C" height="39">](https://www.learn-c.org/)
+
 </div>
