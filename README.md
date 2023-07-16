@@ -1,7 +1,6 @@
 <h3 align="center">Ippokratis Pantelidis - 20 y/o - Greece</h3>
 <h3 align="center"> Undergrad - Computer Science @ AUEB </h3>
 <br>
-
 <h3 align="center">Languange and Tools</h3>
 <p align="center"> 
 <a href="https://www.learn-c.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
