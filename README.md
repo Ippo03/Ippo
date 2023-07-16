@@ -20,7 +20,7 @@
 
 <h3 align="center">Github Stats:</h3>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ippo03&hide_border=true&layout=compact"/>  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ippo03&show_icons=true&locale=en&layout=compact&theme=darclu" alt="ippo03" /></p>
 </div>
 
   
