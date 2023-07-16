@@ -18,10 +18,11 @@
   <a href="https://twitter.com/Ippokra39664792" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">Github Stats:</h3>
+<h3 align="center">GitHub Stats:</h3>
 <div align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ippo03&show_icons=true&locale=en&layout=compact&theme=darcula" alt="ippo03" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ippo03&show_icons=true&locale=en&layout=compact&theme=darcula" alt="ippo03" /></p>
 </div>
+
 
   
 
