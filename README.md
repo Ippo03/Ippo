@@ -1,6 +1,5 @@
 <h3 align="center">Ippokratis Pantelidis - 20 y/o - Greece</h3>
 <h3 align="center"> Undergrad - Computer Science @ AUEB </h3>
-<br>
 
 <h3 align="center">Languange and Tools:</h3>
 <p align="center"> 
