@@ -16,9 +16,9 @@
 #connection
 <h3 align="center">Connect with Ippo:</h3>
 <p align="center">
-  <a href="https://discord.com/channels/@me" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="discord"> </a>
-  <a href="https://www.linkedin.com/in/ippokratis-pantelidis-ba3b44267/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin"> </a>
-  <a href="https://twitter.com/Ippokra39664792" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter"> </a>
+  <a href="https://discord.com/channels/@me" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="discord"width="40" height="40"/> </a>
+  <a href="https://www.linkedin.com/in/ippokratis-pantelidis-ba3b44267/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
+  <a href="https://twitter.com/Ippokra39664792" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/> </a>
 </p>
 
 
