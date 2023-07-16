@@ -19,6 +19,21 @@
   <a href="https://twitter.com/Ippokra39664792" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/> </a>
 </p>
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ippo03&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>  
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ippo03&hide_border=true&layout=compact" />  
+</div>
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Ippo03&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
 
 
 
