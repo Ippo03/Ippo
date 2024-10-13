@@ -1,5 +1,5 @@
-<h3 align="center">Ippokratis Pantelidis - 20 y/o - Greece</h3>
-<h3 align="center"> Undergrad - Computer Science @ AUEB </h3>
+<h3 align="center">Ippokratis Pantelidis - 21 y/o - Greece</h3>
+<h3 align="center">Undergrad - Computer Science @ AUEB </h3>
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center"> 
@@ -16,18 +16,21 @@
 <h3 align="center">Tools and Frameworks:</h3>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs code" width="40" height="40"/> </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/128px-Visual_Studio_Icon_2022.svg.png" alt="vs" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/help/idea/getting-started.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"> </a>
+<!--   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/128px-Visual_Studio_Icon_2022.svg.png" alt="vs" width="40" height="40"/></a> -->
+<!--   <a href="https://www.jetbrains.com/help/idea/getting-started.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"> </a> -->
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/128px-Android_Studio_icon_%282023%29.svg.png" alt="android studio" width="40" height="40"> </a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/32px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"> </a>
   <a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Numpy-svgrepo-com.svg/512px-Numpy-svgrepo-com.svg.png" alt="numpy" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/stable/index.html" target="_blank"><img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png" alt="sklearn" width="60" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/tensorflow.svg" alt="tensor flow" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="pytorch" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="my sql" width="40" height="40"/> </a>
   <a href="https://flutter.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"> </a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"> </a>
-    <a href="https://developer.android.com/develop/ui/compose" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpack compose" width="40" height="40"> </a>
+  <a href="https://developer.android.com/develop/ui/compose" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpack compose" width="40" height="40"> </a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/64px-Git_icon.svg.png" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/11104/11104255.png" alt="github" width="40" height="40"/> </a>
-  <a href="https://about.gitlab.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
+<!--   <a href="https://github.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/11104/11104255.png" alt="github" width="40" height="40"/> </a>
+  <a href="https://about.gitlab.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a> -->
   <a href="https://help.figma.com/hc/en-us" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"> </a>
 </p>
 
