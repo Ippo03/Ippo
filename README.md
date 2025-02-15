@@ -37,7 +37,6 @@
 
 <h3 align="center">Connect with Ippo:</h3>
 <p align="center">
-  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" alt="discord" width="40" height="30"/> </a>
   <a href="https://www.linkedin.com/in/ippokratis-pantelidis-ba3b44267/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
 
